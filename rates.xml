@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rates>
+	<Rate Symbol="EURUSD">
+		<Bid>2.0617</Bid>
+		<Ask>1.06195</Ask>
+		<High>1.06253</High>
+		<Low>1.05936</Low>
+		<Direction>-1</Direction>
+		<Last>11:43:23</Last>
+	</Rate>
+	
+	<Rate Symbol="USDJPY">
+		<Bid>109.463</Bid>
+		<Ask>109.486</Ask>
+		<High>109.794</High>
+		<Low>109.331</Low>
+		<Direction>-1</Direction>
+		<Last>11:43:24</Last>
+	</Rate>
+	
+</Rates>
